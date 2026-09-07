@@ -18,6 +18,8 @@
 | **Date** | February 27, 2026 |
 | **Author** | Christopher Patrick Kuntz |
 
+**Documentation updated:** 2026-09-07. The recorded Immunefi submission is dated February 2026; no newer vendor outcome is recorded in this README.
+
 ---
 
 ## Summary
